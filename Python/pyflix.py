@@ -130,7 +130,7 @@ class PyFlix:
                 print("- Search Results -" + "\n" + moviesearch.element.get_info())
                 return None
             moviesearch = moviesearch.nextNode
-            print("- Search Results -" + "\n" + "No matching movie.")
+        print("- Search Results -" + "\n" + "No matching movie.")
 
 
 ##### Part 3 #####
