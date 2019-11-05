@@ -1,5 +1,3 @@
-"""Andrew Meany 118755539"""
-
 ##### Part 1 #####
 
 # NOTE: Python 3.6 f-format used for slight increase in performance
