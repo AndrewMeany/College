@@ -1,5 +1,3 @@
-""" Andrew Meany 118755539 """
-
 """ GENERAL (LVL1) CLASS """
 
 
