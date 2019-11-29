@@ -1,8 +1,3 @@
-# Andrew Meany 118755539
-# CS2208 Assignment 1
-
-# NOTE: had to re-type all the code on 28/11/19 so I am hoping (some of) it works
-
 # 1
 CREATE TABLE Employee (
 eid INT(4) UNSIGNED AUTO_INCREMENT,
