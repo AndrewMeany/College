@@ -1,1 +1,5 @@
 ## Course List
+
+## Languages
+
+- Python
