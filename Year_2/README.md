@@ -1,4 +1,4 @@
-## Cource List
+## Course List
 
 - Information Storage and Management I
 - Information Storage and Management II
