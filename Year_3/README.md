@@ -12,7 +12,7 @@
 # Languages
 
 - Python
-- Docker
+- Shell Script (Docker)
 - PHP
 - Java
 - C
